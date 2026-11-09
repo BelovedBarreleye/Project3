@@ -1,0 +1,16 @@
+[19484:7584:1107/131514.445:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19484:29200:1107/131514.510:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19484:7584:1107/131514.547:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23068:27912:1107/131515.462:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E497702E2C098E63F04ED56F1E94288B will be ignored
+[19484:18720:1107/131816.673:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/131816.753:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/131816.814:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/131816.868:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/131816.873:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/140123.353:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/182151.195:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/182151.328:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/182151.344:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/182151.392:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:18720:1107/182151.422:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19484:7584:1107/182329.470:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
